@@ -1,5 +1,5 @@
 # Resume
-[정승원 Linkedin](https://www.linkedin.com/in/seungwon-jung-ameri/)
+[정승원 Linkedin](https://www.linkedin.com/in/seungwon-jung-pm/)
 - 개발자 언어로 말하는 IT 기획자
     - [내 손안의 결혼식](https://pinno12.github.io/youngwon-ad/) - [github](https://github.com/pinno12/youngwon-ad)
     - [옷 B2B 봉직공장 홈페이지](https://pinno12.github.io/comz_static/)
